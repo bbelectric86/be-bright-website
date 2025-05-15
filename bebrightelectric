@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Be Bright Electric</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-white text-gray-900">
+  <main class="p-6 max-w-5xl mx-auto">
+    <header class="text-center mb-10">
+      <h1 class="text-4xl font-bold">Be Bright Electric</h1>
+      <p class="text-lg mt-2 text-gray-600">Professional Residential & Light Commercial Electrical Services in Erie, PA</p>
+      <p class="mt-2 text-sm">Call/Text: <strong>814-882-4854</strong></p>
+    </header>
+
+    <section class="mb-10">
+      <h2 class="text-2xl font-semibold mb-4">Why Choose Us?</h2>
+      <ul class="list-disc list-inside text-gray-700">
+        <li>Licensed & Insured – Journeyman & Contractor Licenses in PA</li>
+        <li>1-Year Warranty on Labor & Materials</li>
+        <li>Clean, Code-Compliant Work That Respects Your Home</li>
+        <li>Free Estimates & Honest Communication</li>
+      </ul>
+    </section>
+
+    <section class="mb-10">
+      <h2 class="text-2xl font-semibold mb-4">Services</h2>
+      <ul class="grid grid-cols-1 sm:grid-cols-2 gap-4 text-gray-700">
+        <li>Panel Upgrades & Replacements</li>
+        <li>Recessed Lighting & Ceiling Fan Installations</li>
+        <li>EV Charger & Appliance Circuit Installations</li>
+        <li>Kitchen & Bathroom Remodel Wiring</li>
+        <li>Garage & Basement Wiring</li>
+        <li>Troubleshooting & Repairs</li>
+      </ul>
+    </section>
+
+    <section class="mb-10">
+      <h2 class="text-2xl font-semibold mb-4">Get in Touch</h2>
+      <p class="mb-2">Whether you're upgrading your panel or adding lighting, Be Bright Electric is here to help.</p>
+      <a href="tel:8148824854" class="inline-block bg-green-600 text-white px-6 py-2 rounded-xl shadow hover:bg-green-700 transition">
+        Call or Text 814-882-4854
+      </a>
+    </section>
+
+    <footer class="text-center text-sm text-gray-500 mt-10">
+      &copy; <script>document.write(new Date().getFullYear())</script> Be Bright Electric LLC | Erie, PA
+    </footer>
+  </main>
+</body>
+</html>
